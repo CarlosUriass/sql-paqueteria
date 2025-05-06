@@ -1,0 +1,15 @@
+nomina_bancos
+nomina_estados
+nomina_origenes_recursos
+nomina_periodicidades_pagos
+nomina_riesgos_puestos
+nomina_tipos_contratos
+nomina_tipos_deducciones
+nomina_tipos_horas
+nomina_tipos_incapacidades
+nomina_tipos_jornadas
+nomina_tipos_nominas
+nomina_tipos_otros_pagos
+nomina_tipos_percepciones
+nomina_tipos_regimenes
+pagos_tipos_cadena_pago
