@@ -1,0 +1,13 @@
+
+estado_civil
+estatus_empleado
+emails
+telefonos
+pronombres
+generos
+discapacidades
+orientacion_sexual
+preferencias_comunicacion
+necesidades_especiales
+accesibilidad_empleados
+empleados_domicilios
