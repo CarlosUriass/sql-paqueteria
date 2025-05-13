@@ -1,8 +1,8 @@
 CREATE TABLE [ccp_30].[ccp_30_localidades] (
-    [localidad] varchar,
-    [estado] varchar,
-    [texto] varchar,
-    [vigencia_desde] varchar,
-    [vigencia_hasta] varchar,
+    [localidad] nvarchar,
+    [estado] nvarchar,
+    [texto] nvarchar,
+    [vigencia_desde] nvarchar,
+    [vigencia_hasta] nvarchar,
     PRIMARY KEY ([localidad],[estado])
 );

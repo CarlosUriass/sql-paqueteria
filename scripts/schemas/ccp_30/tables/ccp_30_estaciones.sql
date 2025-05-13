@@ -1,11 +1,11 @@
 CREATE TABLE [ccp_30].[ccp_30_estaciones] (
-    [id] varchar,
-    [texto] varchar,
-    [clave_transporte] varchar,
-    [nacionalidad] varchar,
-    [designador_iata] varchar,
-    [linea_ferrea] varchar,
-    [vigencia_desde] varchar,
-    [vigencia_hasta] varchar,
+    [id] nvarchar,
+    [texto] nvarchar,
+    [clave_transporte] nvarchar,
+    [nacionalidad] nvarchar,
+    [designador_iata] nvarchar,
+    [linea_ferrea] nvarchar,
+    [vigencia_desde] nvarchar,
+    [vigencia_hasta] nvarchar,
     PRIMARY KEY ([id])
 );

@@ -1,7 +1,7 @@
 CREATE TABLE [ccp_30].[ccp_30_sectores_cofepris] (
-    [id] varchar,
-    [texto] varchar,
-    [vigencia_desde] varchar,
-    [vigencia_hasta] varchar,
+    [id] nvarchar,
+    [texto] nvarchar,
+    [vigencia_desde] nvarchar,
+    [vigencia_hasta] nvarchar,
     PRIMARY KEY ([id])
 );
