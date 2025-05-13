@@ -1,6 +1,6 @@
 CREATE TABLE [ccp_30].[ccp_30_colonias] (
-    [colonia] varchar,
-    [codigo_postal] varchar,
-    [texto] varchar,
+    [colonia] nvarchar,
+    [codigo_postal] nvarchar,
+    [texto] nvarchar,
     PRIMARY KEY ([colonia],[codigo_postal])
 );

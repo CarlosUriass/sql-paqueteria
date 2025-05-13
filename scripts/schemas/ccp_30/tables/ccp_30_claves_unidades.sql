@@ -1,11 +1,11 @@
 CREATE TABLE [ccp_30].[ccp_30_claves_unidades] (
-    [id] varchar,
-    [texto] varchar,
-    [descripcion] varchar,
-    [nota] varchar,
-    [vigencia_desde] varchar,
-    [vigencia_hasta] varchar,
-    [simbolo] varchar,
-    [bandera] varchar,
+    [id] nvarchar,
+    [texto] nvarchar,
+    [descripcion] nvarchar,
+    [nota] nvarchar,
+    [vigencia_desde] nvarchar,
+    [vigencia_hasta] nvarchar,
+    [simbolo] nvarchar,
+    [bandera] nvarchar,
     PRIMARY KEY ([id])
 );
