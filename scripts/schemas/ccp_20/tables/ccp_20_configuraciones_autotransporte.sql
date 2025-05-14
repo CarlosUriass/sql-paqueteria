@@ -1,9 +1,9 @@
 CREATE TABLE [ccp_20].[ccp_20_configuraciones_autotransporte] (
-    [id] varchar,
-    [texto] varchar,
+    [id] nvarchar(255),
+    [texto] nvarchar(255),
     [numero_de_ejes] int,
     [numero_de_llantas] int,
-    [remolque] varchar,
+    [remolque] nvarchar(255),
     [vigencia_desde] date,
     [vigencia_hasta] date,
     PRIMARY KEY ([id])
