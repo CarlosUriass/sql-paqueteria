@@ -1,4 +1,4 @@
-CREATE TABLE incidencias_envio (
+CREATE TABLE atencion_cliente.incidencias_envio (
     id_incidencia INT IDENTITY(1,1) PRIMARY KEY,
     id_paquete INT NOT NULL,
     tipo_incidencia NVARCHAR(100) NOT NULL,

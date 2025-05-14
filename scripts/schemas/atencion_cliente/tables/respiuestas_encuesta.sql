@@ -1,4 +1,4 @@
-CREATE TABLE respuestas_encuesta (
+CREATE TABLE atencion_cliente.respuestas_encuesta (
     id_respuesta INT IDENTITY(1,1) PRIMARY KEY,
     id_encuesta INT,
     id_pregunta INT,

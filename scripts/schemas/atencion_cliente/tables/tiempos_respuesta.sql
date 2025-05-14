@@ -1,4 +1,4 @@
-CREATE TABLE tiempos_respuesta (
+CREATE TABLE atencion_cliente.tiempos_respuesta (
     id_tiempo INT IDENTITY(1,1) PRIMARY KEY,
     id_incidencia INT,
     tiempo_respuesta_minutos INT,

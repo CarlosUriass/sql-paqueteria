@@ -1,4 +1,4 @@
-CREATE TABLE mensajes_cliente (
+CREATE TABLE atencion_cliente.mensajes_cliente (
     id_mensaje INT IDENTITY(1,1) PRIMARY KEY,
     id_incidencia INT NOT NULL,
     id_usuario INT,

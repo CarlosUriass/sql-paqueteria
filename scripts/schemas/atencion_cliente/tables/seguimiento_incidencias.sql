@@ -1,4 +1,4 @@
-CREATE TABLE seguimiento_incidencias (
+CREATE TABLE atencion_cliente.seguimiento_incidencias (
     id_seguimiento INT IDENTITY(1,1) PRIMARY KEY,
     id_incidencia INT NOT NULL,
     id_usuario INT NOT NULL,

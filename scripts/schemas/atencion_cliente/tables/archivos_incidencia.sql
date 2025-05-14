@@ -1,4 +1,4 @@
-CREATE TABLE archivos_incidencia (
+CREATE TABLE atencion_cliente.archivos_incidencia (
     id_archivo INT IDENTITY(1,1) PRIMARY KEY,
     id_incidencia INT NOT NULL,
     nombre_archivo NVARCHAR(255),

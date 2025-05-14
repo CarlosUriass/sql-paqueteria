@@ -1,4 +1,4 @@
-CREATE TABLE comentarios_clientes (
+CREATE TABLE atencion_cliente.comentarios_clientes (
     id_comentario INT IDENTITY(1,1) PRIMARY KEY,
     id_cliente INT,
     comentario NVARCHAR(MAX),
