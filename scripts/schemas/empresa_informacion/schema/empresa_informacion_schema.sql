@@ -1,0 +1,1 @@
+CREATE schema empresa_informacion;
